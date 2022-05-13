@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Majonez57
-- 👀 I’m interested in everything to do with maths, machine learning, and data engineering
-- 🌱 I’m currently learning CompSci+AI @ University of Nottingham
+- 👀 I’m interested in everything to do with maths, machine learning, and Robotics!
+- 🌱 I’m currently learning CompSci+AI @ University of Nottingham, and leading the RoboNotts robotics team
 - 💞️ I’m looking to collaborate on fun silly projects
 
 <!---
